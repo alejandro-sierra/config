@@ -1,4 +1,4 @@
-#config
+# config
 
 creamos la carperta .config/nvim/init.vim
 le introducimos estos datos:
